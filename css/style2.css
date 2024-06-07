@@ -1,12 +1,6 @@
 #what{
     color: red;
     font-size: 100px;
-
-}
-img{
-    height:400px ;
-    width: 400px;
-    border-radius: 200px;
 }
 #kilo{
     margin-right: 20px;
@@ -22,4 +16,10 @@ img{
 }
 body{
     background-color: gray;
+}
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+    margin-right: 200px;
 }
