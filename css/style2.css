@@ -5,19 +5,17 @@
 #kilo{
     margin-right: 20px;
 }
-.kill{
-    margin-right: 20px;
-}
 .kilo{
     margin-right: 20px;
 }
-.jew{
-    margin-right: 20px;
-}
+
 body{
     background-color: gray;
 }
 img{
     width: 100%;
     height: 261px;
+}
+.ic{
+    margin-left: 0;
 }
